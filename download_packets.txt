@@ -1,0 +1,8 @@
+pip3 install django
+pip3 install django-ckeditor
+pip3 install Pillow
+pip3 install django-embed-video
+pip3 install environs
+pip3 install gunicorn
+pip3 install django-crispy-forms
+pip3 install psycopg2-binary
